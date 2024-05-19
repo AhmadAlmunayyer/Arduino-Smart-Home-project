@@ -1,4 +1,4 @@
-# Smart Home Model Project
+# Smart Home Model Project (Embedded systems project)
 
 ## Introduction
 The Smart Home Model Project aims to create a simple and efficient home automation system using Arduino and various sensors. This DIY project allows users to control various functions in their home using an Arduino microcontroller and sensors. The project utilizes RFID, rain sensor, flame sensor, and PIR sensor along with a servo motor, buzzer, and LED to manage different smart home functionalities.
